@@ -1,5 +1,5 @@
 # Details:
-This landing page was made using floats design system
+This landing page was made using float design system.
 
 ## Tech Used:
 - sass
@@ -7,4 +7,4 @@ This landing page was made using floats design system
 - css3
 - html5
 
-### This website was made used the latest css attributes that are not supported in all browsers.
+### This website was made using the latest css attributes that are not supported in all browsers.
